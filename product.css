@@ -1,0 +1,137 @@
+#logo img{
+  max-height: 160px;
+  width: auto;
+}
+.topnav {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav{
+  display: inline;
+}
+.topnav {
+  float: left;
+  display: block;
+  padding: 14px 16px;
+  background-color: #D98555;
+  display: block;
+  margin: 8px 22px 8px 22px;
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  }
+.topnav a {
+  margin-top: 20px;
+  color: #F2F2F2;
+  font-size: 40px;
+  font-family: "Poppins Bold" sans-serif;
+  text-decoration: none;
+  margin-right: 60px;
+}
+body {
+  background-color: #131D26;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 300px;
+}
+.column {
+  float: left right;
+  width: 33.33%;
+  padding: 10px;
+}
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+h2 {
+  color: #F2F2F2;
+  font-family: "Poppins Bold", sans-serif;
+}
+p1 {
+  color: #F2F2F2;
+  font-family: "Lato", sans-serif;
+}
+img {
+  width: 35%;
+  height: 148px;
+}
+.coffee {
+  float: right;
+  margin-right: 15%;
+  width: 33.33%;
+  height: 300px;
+  margin-top: -730px;
+  position: relative;
+}
+.column4 {
+  float: right;
+  margin-right: 15%;
+  margin-top: -400px;
+  width: 33.33%;
+  height: 200px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+}
+footer {
+  color: white;
+}
+.button {
+  font-family: "Poppins Bold", sans-serif;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-left: 80px;
+}
+p2 {
+  white-space: nowrap;
+  color: #F2F2F2;
+}
+p3 {
+  white-space: wrap;
+  color: #F2F2F2;
+}
+.people {
+  margin-top: 50px;
+  width: 110%;
+  height: 250px;
+  position: relative;
+}
+h1 {
+  color: #F2F2F2;
+  font-family: "Poppins Bold", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+}
+h2 {
+  font-family: "Poppins Bold",sans-serif;
+  text-align: center;
+}
+p {
+  color: #F2F2F2;
+  font-family: "Poppins",sans-serif;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gulp-bottom-beans {
+  width: 100%;
+  float: left;
+}
+.fa {
+  padding: 20px;
+  font-size: 70px;
+  width: 50px;
+  border-radius: 50%;
+}
